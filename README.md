@@ -1,9 +1,8 @@
 # Urban_Data_Analysis_Course
-## Instructor: Alia Kasem
-## Email: aliakasem08@gmail.com
-## Location: 6th floor: computer lab
-
-## Class time:  5:30p-7:20p 
+#### Instructor: Alia Kasem
+#### Email: aliakasem08@gmail.com
+#### Location: 6th floor: computer lab
+#### Class time:  5:30p-7:20p 
 
 # README: Data Analysis for Urban Planning
 
