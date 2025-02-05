@@ -78,5 +78,5 @@ Students will select a dataset, develop a research question, and conduct a full 
 - Active participation in class and on Teams accounts for **15%** of the final grade.
 - Students are encouraged to collaborate but must submit individual assignments.
 
-For additional questions, reach out via MS Teams or during office hours.
+For additional questions, reach out via email.
 
