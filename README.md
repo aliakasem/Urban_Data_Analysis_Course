@@ -75,7 +75,7 @@ By the end of the course, students will be able to:
 Students will select a dataset, develop a research question, and conduct a full analysis using the methods learned throughout the course.
 
 ## Participation and Collaboration
-- Active participation in class and on MS Teams accounts for **15%** of the final grade.
+- Active participation in class and on Teams accounts for **15%** of the final grade.
 - Students are encouraged to collaborate but must submit individual assignments.
 
 For additional questions, reach out via MS Teams or during office hours.
