@@ -81,6 +81,12 @@ Students will select a dataset, develop a research question, and conduct a full 
 ## Participation and Collaboration
 - Active participation in class and on Teams accounts for **15%** of the final grade.
 - Students are encouraged to collaborate but must submit individual assignments.
+## Required Reading Materials:
+- Salkind, N. J., & Frey, B. B. (2019). Statistics for people who (think they) hate statistics. Sage Publications, Incorporated.
+- Statistics By Jim: https://statisticsbyjim.com/
+- Introduction to Statistics
+Frost, Jim. Hypothesis Testing: An Intuitive Guide to Making Data-Driven Decisions. Jim Frost, 2020.
+- https://github.com/aliakasem/Urban_Data_Analysis_Course
 
 For additional questions, reach out via email.
 
