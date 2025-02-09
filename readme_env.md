@@ -6,7 +6,7 @@ This guide walks you through setting up a **Conda environment** from scratch, ac
 ---
 
 ## **📌 1. Install Conda (If Not Installed)**
-Before creating an environment, ensure you have **Anaconda** or **Miniconda** installed.
+Before creating an environment, ensure you have **Anaconda** installed.
 
 ### **Check if Conda is Installed**
 Open a terminal (Mac/Linux) or **Anaconda Prompt** (Windows) and run:
