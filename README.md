@@ -60,7 +60,7 @@ By the end of the course, students will be able to:
 ## Assignments and Grading
 | Assignment | Weight | Due Date |
 |------------|--------|----------|
-| Assignment 1 | 10% | Feb 13, 2025 |
+| Assignment 1 | 10% | Feb 14, 2025 |
 | Assignment 2 | 10% | Feb 27, 2025 |
 | Assignment 3 | 10% | Mar 13, 2025 |
 | Assignment 4 | 10% | Apr 3, 2025 |
