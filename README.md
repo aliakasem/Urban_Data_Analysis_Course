@@ -17,7 +17,7 @@ Students should have:
 - An understanding that generative AI will be used in the course.
 
 ## Course Tools
-- **Communication Platform:** MS Teams
+- **Communication Platform:** Email and Discord 
 - **Programming Tools:** Jupyter Notebooks, Anaconda, VS Code
 - **Main Programming Language:** Python
 
