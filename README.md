@@ -41,8 +41,8 @@ By the end of the course, students will be able to:
 | 6    | Mar 6, 2025  | Python with Numpy: Arrays, Quantiles, Scatter Plots |
 | 7    | Mar 13, 2025 | Python with Statsmodels: Inferential Statistics |
 | 8    | Mar 20, 2025 | Groupby Operations, Correlation Analysis |
-| 9    | Mar 27, 2025 | Data Cleaning: Seaborn Heatmaps |
-| 10   | Apr 3, 2025  | Advanced Data Visualization |
+| 9    | Mar 27, 2025 |  **Class Will Not Meet** |
+| 10   | Apr 3, 2025  | Advanced Data Visualization & Data Cleaning: Seaborn Heatmaps |
 | 11   | Apr 10, 2025 | Introduction to Linear Regression |
 | 12   | Apr 17, 2025 | Regression Analysis |
 | 13   | Apr 24, 2025 | Preparing Final Project, Regression Case Study |
