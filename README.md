@@ -61,9 +61,9 @@ By the end of the course, students will be able to:
 | Assignment | Weight | Due Date |
 |------------|--------|----------|
 | Assignment 1 | 10% | Feb 14, 2025 |
-| Assignment 2 | 10% | Feb 27, 2025 |
-| Assignment 3 | 10% | Mar 13, 2025 |
-| Assignment 4 | 10% | Apr 3, 2025 |
+| Assignment 2 | 10% | Feb 28, 2025 |
+| Assignment 3 | 10% | Mar 14, 2025 |
+| Assignment 4 | 10% | Apr 4, 2025 |
 | Assignment 5 (Extra Credit) | 5% | Apr 24, 2025 |
 | Final Project | 25% | May 8, 2025 |
 | Active Participation | 15% | Ongoing |
