@@ -31,23 +31,27 @@ By the end of the course, students will be able to:
 6. Collaborate with peers to solve urban issues with data.
 
 ## Weekly Plan
+
 | Week | Date       | Topics |
 |------|------------|--------------------------------------------------------|
-| 1    | Jan 30, 2025 | Course Introduction, Python Basics, AI Tools |
-| 2    | Feb 6, 2025  | Intro to Statistics, Pandas Data Types |
-| 3    | Feb 13, 2025 | Python with Pandas: DataFrames, Visualizations |
-| 4    | Feb 20, 2025 | Statistical Analysis: Hypotheses, Column Stats |
-| 5    | Feb 27, 2025 | Data Cleaning: Missing Values, Grouping Data |
-| 6    | Mar 6, 2025  | Python with Numpy: Arrays, Quantiles, Scatter Plots |
-| 7    | Mar 13, 2025 | Python with Statsmodels: Inferential Statistics |
-| 8    | Mar 20, 2025 | Groupby Operations, Correlation Analysis |
-| 9    | Mar 27, 2025 |  **Class Will Not Meet** |
-| 10   | Apr 3, 2025  | Advanced Data Visualization & Data Cleaning: Seaborn Heatmaps |
-| 11   | Apr 10, 2025 | Introduction to Linear Regression |
-| 12   | Apr 17, 2025 | Regression Analysis |
-| 13   | Apr 24, 2025 | Preparing Final Project, Regression Case Study |
-| 14   | May 1, 2025  | Introduction to ANOVA, NYC Emissions Case Study |
-| 15   | May 8, 2025  | Final Project Presentations |
+| 1    | Jan 30, 2025 (Thursday) | Course Introduction, Python Basics, AI Tools |
+| 2    | Feb 6, 2025 (Thursday)  | Intro to Statistics, Pandas Data Types |
+| 3    | Feb 13, 2025 (Thursday) | Python with Pandas: DataFrames, Visualizations |
+| 4    | Feb 20, 2025 (Thursday) | Statistical Analysis: Hypotheses, Column Stats |
+| 5    | Feb 27, 2025 (Thursday) | Data Cleaning: Missing Values, Grouping Data |
+| 6    | Mar 6, 2025 (Thursday)  | **Classes follow Wednesday schedule** |
+| 7    | Mar 13, 2025 (Thursday) | Python with Statsmodels: Inferential Statistics |
+| 8    | Mar 20, 2025 (Thursday) | Groupby Operations, Correlation Analysis |
+| 9    | Mar 27, 2025 (Thursday) | **Class Will Not Meet** |
+| 10   | Apr 3, 2025 (Thursday)  | Advanced Data Visualization & Data Cleaning: Seaborn Heatmaps |
+| 11   | Apr 10, 2025 (Thursday) | Introduction to Linear Regression |
+| **–** | **Apr 12-20, 2025 (Saturday-Sunday)** | **Spring Recess – No classes scheduled** |
+| 12   | Apr 17, 2025 (Thursday) | Regression Analysis |
+| 13   | Apr 24, 2025 (Thursday) | Preparing Final Project, Regression Case Study |
+| 14   | May 1, 2025 (Thursday)  | Introduction to ANOVA, NYC Emissions Case Study |
+| 15   | May 8, 2025 (Thursday)  | Time Series Analysis & Forecasting, Model Evaluation |
+| 16   | May 15, 2025 (Thursday) | **Final Project Presentations (Last day of classes before Finals)** |
+
 
 ## Python Libraries Used
 - **Pandas** – Data manipulation
