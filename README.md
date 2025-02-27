@@ -3,6 +3,7 @@
 #### Email: aliakasem08@gmail.com
 #### Location: 6th floor: computer lab
 #### Class time:  5:30p-7:20p 
+#### Office Hours: Tuesday 4:00p - 5:00p
 
 # README: Data Analysis for Urban Planning
 
