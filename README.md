@@ -85,13 +85,257 @@ By the end of the course, students will be able to:
 - **Assignment 5 (Extra Credit):** Regression Analysis & Final Project Preparation (NYC PLUTO Dataset)
 
 
-
-
-
-
-
 ### Final Project
 Students will select a dataset, develop a research question, and conduct a full analysis using the methods learned throughout the course.
+
+
+
+
+==============================================================================
+# Description of Assignments and Quizzes
+
+## Quiz 1
+In this quiz, there will be questions from Chapter 2 of Salkind about calculating mean and median. 
+
+---
+
+## Assignment #1  
+### Homework 1: Environment Setup and Python Basics  
+**Due Date:** Week 3 (First Thursday after Week 2 lecture)  
+
+**Objective:**  
+Ensure students are comfortable with setting up their development environment, working with Jupyter notebooks, and writing basic Python code.  
+
+### Tasks:
+
+#### Environment Setup:
+- Install Anaconda, VS Code, and Python libraries (`pandas`, `numpy`, `matplotlib`).
+- Set up a Jupyter notebook environment in VS Code.
+
+#### Python Basics:
+- Create a new Jupyter notebook with the following tasks:  
+  - Import `pandas`, `numpy`, and `matplotlib`.
+  - Create a Pandas DataFrame with columns `Numbers` and `Squares`.
+  - Calculate the mean, median, and standard deviation of the `Numbers` column.
+  - Create a simple line plot of `Numbers` vs `Squares`.
+
+#### Documentation:
+- Add markdown cells to explain your steps and include a title with your name and the assignment date.
+
+#### Submission:
+- Submit the `.ipynb` file.
+
+---
+
+## Assignment #2  
+### Homework 2: Exploring and Cleaning a Dataset  
+**Due Date:** Week 5 (First Thursday after Week 4 lecture)  
+
+**Objective:**  
+Develop skills in data exploration, cleaning, and basic statistics using a real-world dataset.  
+
+**Dataset:** NYC Motor Vehicle Collisions Dataset (Link)  
+
+### Tasks:
+
+#### Data Exploration:
+- Load the dataset in a Jupyter notebook and display the first 10 rows.
+- Print the column names and data types.
+
+#### Data Cleaning:
+- Drop rows with missing values in critical columns (e.g., `borough`, `latitude`, `longitude`).
+- Rename `number_of_persons_injured` to `Persons Injured`.
+- Convert `crash_date` to a datetime object.
+
+#### Descriptive Statistics:
+- Calculate the mean, median, and standard deviation of `Persons Injured`.
+- List all unique boroughs in the dataset.
+
+#### Visualization:
+- Create a bar chart showing the number of crashes by borough.
+- Plot a histogram of `Persons Injured`.
+
+#### Documentation:
+- Add markdown cells summarizing your observations and explaining the cleaning process.
+
+#### Submission:
+- Submit the `.ipynb` file.
+
+---
+
+## Assignment #3  
+### Homework 3: Data Analysis and Visualization  
+**Due Date:** Week 7 (First Thursday after Week 6 lecture)  
+
+**Objective:**  
+Strengthen data visualization and analysis skills using real-world data.  
+
+**Dataset:** Citi Bike Data (Link)  
+
+### Tasks:
+
+#### Data Preparation:
+- Download Citi Bike data for a single month (e.g., January 2024).
+- Load the dataset into a Pandas DataFrame.
+
+#### Data Exploration:
+- Display the number of rows and columns.
+- List unique user types (e.g., `Subscriber`, `Customer`).
+
+#### Analysis:
+- Calculate the total number of trips and the total trip duration (in minutes).
+- Find the average trip duration per user type.
+- Identify the longest and shortest trips.
+
+#### Visualization:
+- Create a histogram of trip durations (in minutes).
+- Generate a boxplot of trip durations grouped by user type.
+- Plot the number of trips taken each day of the month.
+
+#### Advanced Task:
+- Create a new column for the hour of the trip start.
+- Plot the distribution of trips by hour.
+
+#### Documentation:
+- Use markdown cells to explain your analysis and insights.
+
+#### Submission:
+- Submit the `.ipynb` file.
+
+---
+
+## Assignment #4  
+### Homework 4: Correlation and Hypothesis Testing  
+**Due Date:** Week 10 (First Thursday after Week 9 lecture)  
+
+**Objective:**  
+Introduce students to correlation analysis and hypothesis testing.  
+
+**Dataset:** NYC COVID-19 Data (Link)  
+
+### Tasks:
+
+#### Data Preparation:
+- Load the dataset and clean missing values.
+- Create new columns if needed (e.g., cumulative cases).
+
+#### Correlation Analysis:
+- Create a scatter plot of `daily_cases` vs `daily_deaths`.
+- Calculate the correlation coefficient between these variables.
+- Write a markdown cell explaining the relationship.
+
+#### Hypothesis Testing:
+- Formulate a hypothesis about whether daily deaths correlate with daily cases.
+- Perform a T-test to evaluate the hypothesis.
+- Interpret the results in a markdown cell.
+
+#### Documentation:
+- Provide markdown explanations of your process and findings.
+
+#### Submission:
+- Submit the `.ipynb` file.
+
+---
+
+## Assignment #5 (Extra-Credit)  
+### Homework 5: Regression Analysis and Final Project Preparation  
+**Due Date:** Week 13 (First Thursday after Week 12 lecture)  
+
+**Objective:**  
+Conduct regression analysis and lay the groundwork for the final project.  
+
+**Dataset:** NYC PLUTO Dataset (Link)  
+
+### Tasks:
+
+#### Data Preparation:
+- Load the dataset and clean missing values in `lotarea` and `assesstot`.
+- Filter the data for properties in Manhattan.
+
+#### Regression Analysis:
+- Perform a linear regression with `lotarea` as the independent variable and `assesstot` as the dependent variable.
+- Print the regression summary.
+- Create a scatter plot with the regression line.
+
+#### Advanced Analysis:
+- Calculate residuals and create a residual plot.
+- Discuss whether the model fits the data well.
+
+#### Final Project Preparation:
+- Select a dataset for the final project and propose a research question.
+- Submit a markdown outline of the steps you’ll take to answer the question.
+
+#### Submission:
+- Submit the `.ipynb` file with all regression analysis and project plans.
+
+---
+
+# Final Project  
+
+## 1. Dataset Selection:  
+Choose one dataset from the provided list:  
+- **Housing Database:** NYC Housing Data  
+- **Citi Bike Data:** Citi Bike  
+- **Legally Operating Businesses:** Business Data  
+- **NYC PLUTO, Census Data, or Temperature Data** (from course resources)  
+
+Students may propose an alternative dataset with prior approval.  
+
+## 2. Research Questions:  
+Formulate **two to three research questions** related to your dataset.  
+**Example:** How do trip durations differ between user types in Citi Bike data?  
+
+## 3. Data Cleaning:  
+- Handle missing/null values.  
+- Process and transform datetime objects (e.g., extract months, days, or hours).  
+- Filter or aggregate data to focus on relevant aspects of your research questions.  
+
+## 4. Exploratory Data Analysis (EDA):  
+- Provide descriptive statistics for key variables.  
+- Create at least **four visualizations**, including:  
+  - Histograms  
+  - Line plots  
+  - Scatter plots  
+  - Bar charts  
+- Ensure all plots have proper labels, titles, and legends.  
+
+## 5. Statistical Analysis:  
+Perform at least **one** of the following:  
+- Hypothesis testing (e.g., T-tests, ANOVA).  
+- Regression analysis (simple or multiple linear regression).  
+- Correlation analysis.  
+
+## 6. Final Report:  
+Submit a report (**maximum 2 pages**) including:  
+- **Introduction and Background:** Explain the dataset and context.  
+- **Research Questions and Hypotheses:** State your questions and hypotheses clearly.  
+- **Methods:** Summarize the steps taken for cleaning, EDA, and statistical analysis.  
+- **Findings and Visualizations:** Present your results with appropriate visualizations.  
+- **Conclusion and Summary:** Summarize your insights and their implications.  
+
+## 7. Notebook Submission:  
+Submit a Jupyter notebook with your complete workflow:  
+- Loading, cleaning, and exploring the data.  
+- Code for statistical analysis and visualizations.  
+- Proper markdown cells explaining each step.  
+
+---
+
+# Grading for Final Project  
+
+| **Criteria**               | **Points** |
+|----------------------------|-----------|
+| Research Questions         | 10 points |
+| Data Cleaning              | 20 points |
+| Exploratory Data Analysis (EDA) | 20 points |
+| Visualizations (at least 4) | 20 points |
+| Statistical Analysis       | 20 points |
+| Final Report               | 10 points |
+| **Total**                  | **100 points** |
+
+---
+===========================================================================
+
 
 ## Participation and Collaboration
 - Active participation in class and on Teams accounts for **15%** of the final grade.
@@ -103,5 +347,6 @@ Students will select a dataset, develop a research question, and conduct a full 
 Frost, Jim. Hypothesis Testing: An Intuitive Guide to Making Data-Driven Decisions. Jim Frost, 2020.
 - https://github.com/aliakasem/Urban_Data_Analysis_Course
 
-For additional questions, reach out via email.
+
+For additional questions, reach out via email or discord.
 
